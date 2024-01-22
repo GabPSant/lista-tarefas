@@ -26,10 +26,10 @@ Atualmente faz uso do método GET para puxar informações do banco de dados fal
 4. Inicie o servidores (em terminais diferentes)
 
     ```bash
-    npm run dev
+    npm run server
     ```
     ```bash
-    npm run server
+    npm run dev
     ```
 
 ## Stack utilizado

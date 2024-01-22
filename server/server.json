@@ -1,17 +1,34 @@
 {
-    "tarefas": [
-      {
-        "id": 1,
-        "titulo": "Fazer compras"
-      },
-      {
-        "id": 2,
-        "titulo": "Estudar para o exame"
-      },
-      {
-        "id": 3,
-        "titulo": "Preparar apresentação"
-      }
-    ]
-  }
-  
+  "tarefas": [
+    {
+      "titulo": "Fazer compras",
+      "descricao": "Comprar mantimentos",
+      "id": "1"
+    },
+    {
+      "titulo": "Estudar para o exame",
+      "descricao": "Revisar material, fazer exercícios e preparar-se para o próximo exame.",
+      "id": "2"
+    },
+    {
+      "titulo": "Preparar apresentação",
+      "descricao": "Criar slides e notas para uma apresentação importante.",
+      "id": "3"
+    },
+    {
+      "titulo": "ajustar os comandos do computador",
+      "descricao": "O CRUD está quase terminado",
+      "id": "4"
+    },
+    {
+      "titulo": "Ajuste da descrição",
+      "descricao": "Está funcional",
+      "id": "6"
+    },
+    {
+      "id": "8",
+      "titulo": "😉 emoji funciona",
+      "isEditing": false
+    }
+  ]
+}
